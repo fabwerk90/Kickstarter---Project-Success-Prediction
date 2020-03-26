@@ -6,7 +6,7 @@
 
 **Summary:**
 
-In this project we aimed at finding a Machine-Learning model in order to predict whether a project on kickstarter can be successful or not. By applying different kinds of Classifying models we were able to determine the best models (namely: Random Forest, Gredient Descent Boost, Ada Boost and XGBoost) for this approach.
+In this project we aimed at finding a Machine-Learning model in order to predict whether a project on kickstarter can be successful or not. By applying different kinds of Classifying models we were able to determine the best models for this approach (namely: Random Forest, Gredient Descent Boost, Ada Boost and XGBoost).
 In a last step we applied the stacking method in order to find the best predictions possible.
 
 
