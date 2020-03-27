@@ -5,6 +5,7 @@
 
 In this project we aimed at finding a Machine-Learning model in order to predict whether a project on kickstarter can be successful or not. By applying different kinds of Classifying models we were able to determine the best models for this approach (namely: Random Forest, Gredient Descent Boost, Ada Boost and XGBoost).
 In a last step we applied the stacking method in order to find the best predictions possible.
+Our aim was to find the overall best predictions, thus our target metric was the **accuracy score**.
 
 ![alt text](https://github.com/fabwerk90/Kickstarter_collaboration_project/blob/master/picture_readme.jpeg)
 
