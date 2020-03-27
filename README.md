@@ -40,6 +40,8 @@ Kickstarter, founded in 2009, is one particularly well-known and popular crowdfu
 
 
 ## Future Work:
+* Tuning the hyperparamter as well as stacking did not improve our model that much, so there is a need for additional data/ more feature engineering (also extract the years)
+* Have a better look at the bias/variance tradeoff -> create learning curves for the models
 * Needed to drop some columns due to completely missing data -> should be enriched with external data
 * To what extent are backers influenced to pledge if the project is close to be being completely funded
 * Check, in which languages the individual project descriptions are written -> possible reason for failure, since english-speaking backers can be excluded by non-english descriptions
