@@ -1,5 +1,7 @@
 # Kickstarter_collaboration_project
 
+Project at neuefische-Bootcamp in Hamburg in March 2020 in collaboration with ![@StefanWoBa](https://github.com/StefanWoBa)
+
 
 ## Summary:
 
